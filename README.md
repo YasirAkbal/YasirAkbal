@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Ahmet Yasir Akbal 👋
 
-<!--
-**YasirAkbal/YasirAkbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Full-stack developer focused on **Java** and **React**, with a passion for building scalable applications.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- **Backend:** Java, Spring Boot, C#
+- **Frontend:** React (learning), JavaScript, HTML/CSS
+- **Database:** PostgreSQL, SQL
+- **Tools:** Git, MVVM
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Experience
+- **Software Engineer** @ IBTECH (2022-2024)
+- **Mobile Developer** @ Anadolu Hayat Emeklilik (2021-2022)
+- **AI Intern** @ Baykar Technologies (2020)
+
+## 🎓 Education
+B.S. in Computer Science - Sakarya University (2020)
+
+## 📫 Contact
+- Email: yasir.akbal1997@hotmail.com
+
+---
+*Currently expanding my skills in React to become a versatile full-stack developer*
