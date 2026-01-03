@@ -5,7 +5,7 @@ Full-stack developer focused on **Java** and **React**, with a passion for build
 
 ## 🔧 Tech Stack
 - **Backend:** Java, Spring Boot
-- **Frontend:** React.JS, JavaScript/TypeScript, HTML3/CSS5, Tailwind CSS, Redux Toolkit, Tanstack Query, React Router
+- **Frontend:** React.JS, JavaScript/TypeScript, HTML5/CSS3, Tailwind CSS, Redux Toolkit, Tanstack Query, React Router
 - **Database:** PostgreSQL, SQL, RDMS
 - **Other:** Git, Visual Studio, Eclipse, SOLID, Clean Code
 
