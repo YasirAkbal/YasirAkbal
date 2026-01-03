@@ -4,10 +4,10 @@
 Full-stack developer focused on **Java** and **React**, with a passion for building scalable applications.
 
 ## 🔧 Tech Stack
-- **Backend:** Java, Spring Boot, C#
-- **Frontend:** React (learning), JavaScript, HTML/CSS
-- **Database:** PostgreSQL, SQL
-- **Tools:** Git, MVVM
+- **Backend:** Java, Spring Boot
+- **Frontend:** React.JS, JavaScript/TypeScript, HTML3/CSS5, Tailwind CSS, Redux Toolkit, Tanstack Query, React Router
+- **Database:** PostgreSQL, SQL, RDMS
+- **Other:** Git, Visual Studio, Eclipse, SOLID, Clean Code
 
 ## 💼 Experience
 - **Software Engineer** @ IBTECH (2022-2024)
