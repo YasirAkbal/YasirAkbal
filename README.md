@@ -20,5 +20,3 @@ B.S. in Computer Science - Sakarya University (2020)
 ## 📫 Contact
 - Email: yasir.akbal1997@hotmail.com
 
----
-*Currently expanding my skills in React to become a versatile full-stack developer*
